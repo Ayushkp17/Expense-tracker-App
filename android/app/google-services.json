@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283492405556",
+    "project_id": "expenseapp-cb4f5",
+    "storage_bucket": "expenseapp-cb4f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283492405556:android:296c9aa9f024f49e545561",
+        "android_client_info": {
+          "package_name": "com.antigravity.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKrVIK5yD_cgqSj7LovsXHsFqQ5wCwhfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
